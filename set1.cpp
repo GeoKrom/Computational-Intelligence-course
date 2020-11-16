@@ -4,7 +4,7 @@
 #include <math.h>
 #include <iostream>
 #include <fstream>
-//#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 #include <string.h>
 
 using namespace std;
@@ -73,21 +73,12 @@ int main(){
       categories[i] = "C1";
     }
 
-
-    //myfile << x1 << "\t";
-    //myfile << x2 << "\n";
-
-
-    //printf("%lf\n", x1);
-
-    //printf("%lf\n", x2);
   }
   printf("%lf, %lf\n", examples[0][0], examples[0][1]);
   printf("%lf, %lf\n", examples[3000][0], examples[3000][1]);
 
   myfile.close();
   myfile2.close();
-  //myfile3.close();
 
   return (0);
 }
