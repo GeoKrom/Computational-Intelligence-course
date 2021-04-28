@@ -1,6 +1,6 @@
 # Computational Intelligence(Artificial Neural Networks)
 
-Programming exercises for CSE035 - Computational Intelligence University of Ioannina
+Programming exercises for CSE035 - Computational Intelligence, Computer Science and Engineering University of Ioannina
 
 # Implementation of training and test set
 
