@@ -21,3 +21,10 @@ hence the data points are two-dimensional. The output layer has three neurons to
 
    # Multi-Layer Perceptron Network
    
+   In general, the MLP network is a feedforward network. Multi-layering aid in difficult mathematical
+   analysis and also benefits from parallel processing. In case of the training process, a MLP network
+   uses the backprobagation method. Fisrt of all, we have the training set D ={(xn,tn)}. Through this set,
+   the weights of the network should change in order to achieve maximum generalization. The weights change
+   with the use of gradient descent.
+   
+# Unsupervised Learning
