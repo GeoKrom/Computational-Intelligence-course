@@ -28,3 +28,12 @@ hence the data points are two-dimensional. The output layer has three neurons to
    with the use of gradient descent.
    
 # Unsupervised Learning
+
+For the unsupervised learning the methods that were implemented are the K-Means algorithm and the LVQ algorithm. 
+These methods are used in data clustering, in order to find the centroids of the clusters. The number of clusters is defined by the programmer.
+The goal is to find the right number of clusters in order to minimize the error rate of the methods.
+
+ # K-Means Algorithm
+ 
+ 
+ # LVQ Algorithm
