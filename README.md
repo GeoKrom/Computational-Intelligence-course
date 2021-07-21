@@ -47,4 +47,5 @@ The goal is to find the right number of clusters in order to minimize the error 
 # Authors
 
 [Dimos Gkitsakis ](https://github.com/DimosGkitsakis)
+
 [George Krommydas](https://github.com/GeoKrom)
